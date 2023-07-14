@@ -90,4 +90,8 @@ Project will be a semester long project. Each component must be addressed at eac
 - Figma for UI design
 - React Native + Firebase for Mobile app implementation
 
+# UN Development Goal 
+### 8th - Decent work and economic growth 
+<img src="unlogo.png" alt="Logo" width="100" height="100">
+
 
